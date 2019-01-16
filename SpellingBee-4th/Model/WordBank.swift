@@ -12,15 +12,17 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"misogynist", sentence:""))
-        list.append(Word(word:"hypocrisy", sentence:""))
-        list.append(Word(word:"diphthong", sentence:""))
-        list.append(Word(word:"mnemonic", sentence:""))
-        list.append(Word(word:"anomaly", sentence:""))
-        list.append(Word(word:"zephyr", sentence:""))
-        list.append(Word(word:"hippopotamus", sentence:""))
-        list.append(Word(word:"euphemism", sentence:""))
-        list.append(Word(word:"anachronism", sentence:""))
-        list.append(Word(word:"metamorphosis", sentence:""))
+        list.append(Word(word:"hyperbole", sentence:""))
+        list.append(Word(word:"arachnid", sentence:""))
+        list.append(Word(word:"paradigm", sentence:""))
+        list.append(Word(word:"eocene", sentence:""))
+        list.append(Word(word:"gynarchy", sentence:""))
+        list.append(Word(word:"pneumatic", sentence:""))
+        list.append(Word(word:"hemerocallis", sentence:""))
+        list.append(Word(word:"cynosure", sentence:""))
+        list.append(Word(word:"philhellenism", sentence:""))
+        list.append(Word(word:"euthanasia", sentence:""))
+        list.append(Word(word:"philately", sentence:""))
+        list.append(Word(word:"cacophony", sentence:""))
     }
 }
