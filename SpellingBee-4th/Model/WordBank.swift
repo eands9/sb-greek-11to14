@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"hedonism", sentence:""))
-        list.append(Word(word:"periscope", sentence:""))
-        list.append(Word(word:"geoponics", sentence:""))
-        list.append(Word(word:"asthmogenic", sentence:""))
-        list.append(Word(word:"monotonous", sentence:""))
-        list.append(Word(word:"amphibious", sentence:""))
-        list.append(Word(word:"symbiosis", sentence:""))
-        list.append(Word(word:"macron", sentence:""))
-        list.append(Word(word:"periphery", sentence:""))
-        list.append(Word(word:"dichotomy", sentence:""))
+        list.append(Word(word:"misogynist", sentence:""))
+        list.append(Word(word:"hypocrisy", sentence:""))
+        list.append(Word(word:"diphthong", sentence:""))
+        list.append(Word(word:"mnemonic", sentence:""))
+        list.append(Word(word:"anomaly", sentence:""))
+        list.append(Word(word:"zephyr", sentence:""))
+        list.append(Word(word:"hippopotamus", sentence:""))
+        list.append(Word(word:"euphemism", sentence:""))
+        list.append(Word(word:"anachronism", sentence:""))
+        list.append(Word(word:"metamorphosis", sentence:""))
     }
 }
